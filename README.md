@@ -66,7 +66,6 @@ Mesmo sendo um dos meus primeiros projetos em Power BI, ele representa o início
 
 ## 📷 Dashboard
 
-> Adicione aqui capturas de tela do projeto.
 
 Exemplo:
 
